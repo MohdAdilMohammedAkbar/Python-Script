@@ -1,3 +1,3 @@
-a = 27
+b = 27
 
-print(a)
+print(b)
